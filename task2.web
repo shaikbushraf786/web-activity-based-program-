@@ -1,0 +1,82 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sweet Bakery</title>
+    <style>
+        body {
+            background-color: #fff0f5;
+            font-family: Arial;
+            text-align: center;
+        }
+        h1 {
+            color: #d63384;
+        }
+        h2 {
+            color: #8b4513;
+        }
+        table {
+            margin: auto;
+            background-color: white;
+        }
+        img {
+            width: 150px;
+            height: 120px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Sweet Bakery and Cake Shop</h1>
+    <p>Fresh Cakes, Pastries and Cookies</p>
+    <hr>
+
+    <h2>Our Products</h2>
+
+    <table border="1" cellpadding="10">
+        <tr>
+            <th>Product</th>
+            <th>Image</th>
+            <th>Price</th>
+        </tr>
+        <tr>
+            <td>Chocolate Cake</td>
+            <td><img src="https://placehold.co/150x120?text=Chocolate+Cake"
+                     alt="Chocolate Cake"></td>
+            <td>Rs. 500</td>
+        </tr>
+        <tr>
+            <td>Strawberry Pastry</td>
+            <td><img src="https://placehold.co/150x120?text=Strawberry+Pastry"
+                     alt="Strawberry Pastry"></td>
+            <td>Rs. 100</td>
+        </tr>
+        <tr>
+            <td>Cookies</td>
+            <td><img src="https://placehold.co/150x120?text=Cookies"
+                     alt="Cookies"></td>
+            <td>Rs. 150</td>
+        </tr>
+    </table>
+
+    <h2>Custom Cake Designs</h2>
+    <p>We make birthday, wedding and anniversary cakes.</p>
+    <img src="https://placehold.co/150x120?text=Birthday+Cake"
+         alt="Birthday Cake">
+    <img src="https://placehold.co/150x120?text=Wedding+Cake"
+         alt="Wedding Cake">
+
+    <h2>Seasonal Offers</h2>
+    <p>Special Offer: Get 10% off on all cakes!</p>
+    <p>Festival Special: Buy 2 pastries and get 1 free.</p>
+
+    <h2>Contact Us</h2>
+    <p>Address: Main Road, Vijayawada</p>
+    <p>Phone: 9876543210</p>
+    <p>Email: sweetbakery@example.com</p>
+
+    <hr>
+    <p>Copyright 2026 Sweet Bakery</p>
+
+</body>
+</html>
